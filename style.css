@@ -1,0 +1,61 @@
+.blog {
+	float: left;
+	color: #5863F8;
+	font-size: 14px;
+	font-family: 'Poppins';
+	font-weight: bold;
+}
+.title {
+	float: left;
+	color: #000000;
+	font-family: 'Poppins';
+	font-size: 42px;
+	font-weight: bolder;
+}
+.blog-box {
+	height: 14px;
+	width: 28px;
+	margin-left: 139px;
+	margin-top: 72px;
+}
+.title-box {
+	height: 115px;
+	width: 465px;
+	margin-left: 139px;
+}
+.body-box {
+	width: 1366px;
+	height: 1098px;
+}
+.section1 {
+	height: 360px;
+	width: 1088px;
+	margin-left: 139px;
+	margin-top: 50px;
+}
+.section1-box1 {
+	height: 360px;
+	width: 352px;
+}
+.image1-box {
+	width: 352px;
+	height: 212px;
+}
+.sub-title {
+	color: #000000;
+	font-size: 18px;
+	font-family: 'Poppins';
+	font-weight: bold;
+}
+.first-text {
+	color: #5863F8;
+	font-size: 14px;
+	font-family: 'Poppins';
+	font-weight: bold;
+}
+.text-1 {
+	color: #B1B1B1;
+	font-size: 14px;
+	font-family: 'Poppins';
+	font-weight: bold;
+}
